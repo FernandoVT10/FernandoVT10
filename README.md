@@ -2,7 +2,9 @@
 I'm from Mexico 🇲🇽.
 I'm a Full Stack developer.<br/>
 I love JavaScript ❤️, I like to play video games, listen music while i read and learn new things!.
+
 Right now i'm studying about artificial intelligence becaause i know that is the future.
+
 The math is the best thing that the humanity could have created (even if sometimes it can be a little bit complicated).
 
 #### I can speak:
@@ -17,7 +19,6 @@ The math is the best thing that the humanity could have created (even if sometim
 ![Python Icon](https://img.icons8.com/color/35/000000/python--v1.png)
 
 #### Frameworks or Libraries that I can use.
-##### JavaScript:
 ![ReactJS Icon](https://img.icons8.com/color/35/000000/react-native.png)
 ![NodeJS Icon](https://user-images.githubusercontent.com/31832473/127776508-4ff9a95c-a7bf-40a7-a65c-d5004654b399.png)
 ![TypeScript Icon](https://img.icons8.com/color/35/000000/typescript.png)
