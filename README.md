@@ -3,7 +3,7 @@ I'm from Mexico 🇲🇽.
 I'm a Full Stack developer.<br/>
 I love JavaScript ❤️, I like to play video games, listen music while i read and learn new things!.
 
-Right now i'm studying about artificial intelligence becaause i know that is the future.
+Right now i'm studying about artificial intelligence because i know that is the future.
 
 The math is the best thing that the humanity could have created (even if sometimes it can be a little bit complicated).
 
